@@ -5,5 +5,5 @@ class User {
 
 test('creo istanza classe', () => {
     const user = new User();
-    expect(user).toBeInstanceOf( User);
+    expect(user).toBeInstanceOf(User);
 });
